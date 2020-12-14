@@ -8,7 +8,7 @@ plt.grid(True)
 r = 8*5
 xc  = 0
 yc = 0
-
+#puntos de inicio y final
 p1=0*np.pi/180
 p2=360*np.pi/180
 dp=(p2-p1)/100
